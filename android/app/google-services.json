@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364619032528",
+    "project_id": "currensee-399f1",
+    "storage_bucket": "currensee-399f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364619032528:android:ee1cd39a310d85acc87bd5",
+        "android_client_info": {
+          "package_name": "com.currensee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRqmTvzm3GJKed0zk3SEZLIL6ph4cpcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364619032528:android:881429319f3a630cc87bd5",
+        "android_client_info": {
+          "package_name": "com.currensee.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRqmTvzm3GJKed0zk3SEZLIL6ph4cpcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
